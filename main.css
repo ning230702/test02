@@ -1,0 +1,13 @@
+header{
+    width: 300px;
+    background: blue;
+    padding: 20px;
+    border-radius: 10px;
+    
+}
+footer{
+    display: flex;
+    list-style-type: none;
+    padding: 0;
+    justify-content: space-between;
+}
